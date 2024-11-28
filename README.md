@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/bfdc5271-efe1-4606-8297-bf3bd29cea07
+
 # LearnConnect
 
 LearnConnect, çeşitli kurslar sunan ve kullanıcıların kurs videolarını izleyerek öğrenme süreçlerini takip etmelerini sağlayan bir mobil uygulamadır. Uygulama, kullanıcıların videoların ilerlemesini kaydetmelerini, izledikleri yerden devam etmelerini sağlar ve video izleme sırasında kullanıcılara daha iyi bir deneyim sunar. Ayrıca, kullanıcıların karanlık mod gibi tercihlerini kaydedebilir ve yönetebilir.
@@ -35,7 +37,7 @@ Kurs içerisindeki videolar dammy videolardır. Gerçek kurs videoları çok kol
 
 
 ### Klonlama
-git clone https://github.com/EbuzerSimsek/LearnConnect
-cd LearnConnect
+- git clone https://github.com/EbuzerSimsek/LearnConnect
+- cd LearnConnect
 
 
