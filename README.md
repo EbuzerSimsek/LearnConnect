@@ -16,7 +16,12 @@ Kurs içerisindeki videolar dammy videolardır. Gerçek kurs videoları çok kol
 - **Karanlık Mod**: Uygulama, kullanıcıların tercihlerine göre karanlık mod desteği sunar. Karanlık mod, cihazda yapılan tercihlere göre otomatik olarak aktifleştirilir ve her kullanıcı tercihi kaydedilir.
 - **Kullanıcı Hesapları**: Firebase Auth kullanılarak kullanıcılar, e-posta ve şifre ile giriş yapabilirler. Uygulama, kullanıcılara kişisel hesap bilgileri ve video izleme ilerlemelerini kaydedebileceği bir alan sunar.
 - **Modern Tasarım**: SwiftUI ile geliştirilmiş modern ekranlara sahiptir. SwiftUI sayesinde dinamik ve duyarlı bir kullanıcı deneyimi sağlanır.
-  
+
+## Bonus Özellikler
+- Video Hız Kontrolü
+- Filtreleme
+- Favorilere Ekleme
+
 ---
 
 ## Kullanılan Teknolojiler
